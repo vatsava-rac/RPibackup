@@ -1,0 +1,68 @@
+2020-01-24 11:19:23.991594  data is received
+2020-01-24 11:19:23.992301  data is divided between battery and latch
+2020-01-24 11:19:23.992587  battery data is separeted
+2020-01-24 11:19:23.994447  latch data is separeted
+2020-01-24 11:19:23.995035  data is stored in log
+2020-01-24 11:19:24.495804LED 1 IS ON
+2020-01-24 11:19:25.497409LED 1 IS OFF
+2020-01-24 11:19:25.499282  data is received
+2020-01-24 11:19:25.500422  data is divided between battery and latch
+2020-01-24 11:19:25.500899  battery data is separeted
+2020-01-24 11:19:25.503948  latch data is separeted
+2020-01-24 11:19:25.505073  data is stored in log
+2020-01-24 11:19:26.006050LED 1 IS ON
+2020-01-24 11:19:27.007624LED 1 IS OFF
+2020-01-24 11:19:27.009312  data is received
+2020-01-24 11:19:27.010494  data is divided between battery and latch
+2020-01-24 11:19:27.010940  battery data is separeted
+2020-01-24 11:19:27.013594  latch data is separeted
+2020-01-24 11:19:27.014583  data is stored in log
+2020-01-24 11:19:27.515474LED 1 IS ON
+2020-01-24 11:19:28.517017LED 1 IS OFF
+2020-01-24 11:19:28.518660  data is received
+2020-01-24 11:19:28.519746  data is divided between battery and latch
+2020-01-24 11:19:28.520179  battery data is separeted
+2020-01-24 11:19:28.522898  latch data is separeted
+2020-01-24 11:19:28.523956  data is stored in log
+2020-01-24 11:19:29.024926LED 1 IS ON
+2020-01-24 11:19:30.030099LED 1 IS OFF
+2020-01-24 11:19:30.031775  data is received
+2020-01-24 11:19:30.033049  data is divided between battery and latch
+2020-01-24 11:19:30.033495  battery data is separeted
+2020-01-24 11:19:30.036318  latch data is separeted
+2020-01-24 11:19:30.037322  data is stored in log
+2020-01-24 11:19:30.538211LED 1 IS ON
+2020-01-24 11:19:31.539718LED 1 IS OFF
+2020-01-24 11:19:31.541219  data is received
+2020-01-24 11:19:31.542596  data is divided between battery and latch
+2020-01-24 11:19:31.543335  battery data is separeted
+2020-01-24 11:19:31.548283  latch data is separeted
+2020-01-24 11:19:31.550463  data is stored in log
+2020-01-24 11:19:32.051725LED 1 IS ON
+2020-01-24 11:19:33.053556LED 1 IS OFF
+2020-01-24 11:19:33.055220  data is received
+2020-01-24 11:19:33.056356  data is divided between battery and latch
+2020-01-24 11:19:33.056789  battery data is separeted
+2020-01-24 11:19:33.062017  latch data is separeted
+2020-01-24 11:19:33.064273  data is stored in log
+2020-01-24 11:19:33.565574LED 1 IS ON
+2020-01-24 11:19:34.567442LED 1 IS OFF
+2020-01-24 11:19:34.569513  data is received
+2020-01-24 11:19:34.571136  data is divided between battery and latch
+2020-01-24 11:19:34.571572  battery data is separeted
+2020-01-24 11:19:34.574662  latch data is separeted
+2020-01-24 11:19:34.575808  data is stored in log
+2020-01-24 11:19:35.076783LED 1 IS ON
+2020-01-24 11:19:36.078342LED 1 IS OFF
+2020-01-24 11:19:36.080025  data is received
+2020-01-24 11:19:36.081211  data is divided between battery and latch
+2020-01-24 11:19:36.081643  battery data is separeted
+2020-01-24 11:19:36.086255  latch data is separeted
+2020-01-24 11:19:36.088148  data is stored in log
+2020-01-24 11:19:36.589447LED 1 IS ON
+2020-01-24 11:19:37.591312LED 1 IS OFF
+2020-01-24 11:19:37.593301  data is received
+2020-01-24 11:19:37.594792  data is divided between battery and latch
+2020-01-24 11:19:37.595541  battery data is separeted
+2020-01-24 11:19:37.601399  latch data is separeted
+2020-01-24 11:19:37.603583  data is stored in log

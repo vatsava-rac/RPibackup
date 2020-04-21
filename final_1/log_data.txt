@@ -1,0 +1,97 @@
+2020-02-28 10:50:34.618774 Auto is connected, verification should be done.
+2020-02-28 10:50:34.618774 ID is TS15UA1266
+2020-02-28 10:50:37.247777 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:13:21.986896 Auto is connected, verification should be done.
+2020-02-28 11:13:21.986896 ID is TS15UA1266
+2020-02-28 11:13:24.762304 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:14:20.092811 Auto is connected, verification should be done.
+2020-02-28 11:14:20.092811 ID is TS15UA1266
+2020-02-28 11:14:22.723409 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:16:27.194589 Auto is connected, verification should be done.
+2020-02-28 11:16:27.194589 ID is TS15UA1266
+2020-02-28 11:16:30.015986 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:17:35.222981 Auto is connected, verification should be done.
+2020-02-28 11:17:35.222981 ID is TS15UA1266
+2020-02-28 11:17:37.843833 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:20:17.634611 Auto is connected, verification should be done.
+2020-02-28 11:20:17.634611 ID is TS15UA1266
+2020-02-28 11:20:20.303592 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:20:59.114100 Auto is connected, verification should be done.
+2020-02-28 11:20:59.114100 ID is TS15UA1266
+2020-02-28 11:21:01.738970 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:23:19.243934 Auto is connected, verification should be done.
+2020-02-28 11:23:19.243934 ID is TS15UA1266
+2020-02-28 11:23:21.904959 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:25:53.373305 Auto is connected, verification should be done.
+2020-02-28 11:25:53.373305 ID is TS15UA1266
+2020-02-28 11:25:56.046922 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:26:34.716014 Auto is connected, verification should be done.
+2020-02-28 11:26:34.716014 ID is TS15UA1266
+2020-02-28 11:26:37.392427 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:27:24.670974 Auto is connected, verification should be done.
+2020-02-28 11:27:24.670974 ID is TS15UA1266
+2020-02-28 11:27:27.547634 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:29:59.488941 Auto is connected, verification should be done.
+2020-02-28 11:29:59.488941 ID is TS15UA1266
+2020-02-28 11:30:02.119298 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:30:44.766026 Auto is connected, verification should be done.
+2020-02-28 11:30:44.766026 ID is TS15UA1266
+2020-02-28 11:30:47.381997 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:31:51.765480 Auto is connected, verification should be done.
+2020-02-28 11:31:51.765480 ID is TS15UA1266
+2020-02-28 11:31:54.341106 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:33:11.858089 Auto is connected, verification should be done.
+2020-02-28 11:33:11.858089 ID is TS15UA1266
+2020-02-28 11:33:14.625248 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:34:03.105524 Auto is connected, verification should be done.
+2020-02-28 11:34:03.105524 ID is TS15UA1266
+2020-02-28 11:34:05.725574 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:41:13.399701 Auto is connected, verification should be done.
+2020-02-28 11:41:13.399701 ID is TS15UA1266
+2020-02-28 11:41:16.067457 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:43:46.532056 Auto is connected, verification should be done.
+2020-02-28 11:43:46.532056 ID is TS15UA1266
+2020-02-28 11:43:49.361797 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 11:45:10.524124 Auto is connected, verification should be done.
+2020-02-28 11:45:10.524124 ID is TS15UA1266
+2020-02-28 11:45:54.244419 Auto is connected, verification should be done.
+2020-02-28 11:45:54.244419 ID is TS15UA1266
+2020-02-28 12:10:40.316091 Auto is connected, verification should be done.
+2020-02-28 12:10:40.316091 ID is TS15UA1266
+2020-02-28 12:10:42.885823 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 12:14:36.312447 Auto is connected, verification should be done.
+2020-02-28 12:14:36.312447 ID is TS15UA1266
+2020-02-28 12:14:38.880977 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:07:11.568157 Auto is connected, verification should be done.
+2020-02-28 13:07:11.568157 ID is TS15UA1266
+2020-02-28 13:07:59.144885 Auto is connected, verification should be done.
+2020-02-28 13:07:59.144885 ID is TS15UA1266
+2020-02-28 13:08:01.767981 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:10:01.907987 Auto is connected, verification should be done.
+2020-02-28 13:10:01.907987 ID is TS15UA1266
+2020-02-28 13:10:04.488850 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:10:33.687695 Auto is connected, verification should be done.
+2020-02-28 13:10:33.687695 ID is TS15UA1266
+2020-02-28 13:10:36.295176 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:14:14.887506 Auto is connected, verification should be done.
+2020-02-28 13:14:14.887506 ID is TS15UA1266
+2020-02-28 13:14:17.503832 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:14:42.850512 Auto is connected, verification should be done.
+2020-02-28 13:14:42.850512 ID is TS15UA1266
+2020-02-28 13:14:45.413918 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:34:47.057652 Auto is connected, verification should be done.
+2020-02-28 13:34:47.057652 ID is TS15UA1266
+2020-02-28 13:34:49.671094 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 13:35:35.374090 Auto is connected, verification should be done.
+2020-02-28 13:35:35.374090 ID is TS15UA1266
+2020-02-28 13:35:37.975365 Verification data is exchanged. Auto is connected and paired.
+2020-02-28 15:56:03.870394 Auto is connected, verification should be done.
+2020-02-28 15:56:03.870394 ID is TS15UA1266
+2020-02-29 14:15:20.905073 Auto is connected, verification should be done.
+2020-02-29 14:15:20.905073 ID is TS15UA1266
+2020-02-29 14:15:23.560851 Verification data is exchanged. Auto is connected and paired.
+2020-03-05 12:51:19.112001 Auto is connected, verification should be done.
+2020-03-05 12:51:19.112001 ID is TS15UA1266
+2020-03-21 17:56:54.741760 Auto is connected, verification should be done.
+2020-03-21 17:56:54.741760 ID is TS15UA1266
+2020-03-21 17:56:57.229640 Verification data is exchanged. Auto is connected and paired.

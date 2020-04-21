@@ -1,0 +1,33 @@
+{
+    "ObjectType": "BatterySwap",
+    "BSS": {
+        "MessageID": "1",
+        "TimeStamp": "12-04-2020 17:42:43",
+        "UserID": "TS15UA1266",
+        "BLEID": "1A:2B:3C:4D:5E:6F",
+        "BSSID": "RACE_BSS_000101",
+        "IncomingSwap": [
+            {
+                "PackId": "RACE_vatsava_5"
+            }
+        ],
+        "EnergyRem": "1.00",
+        "Bill": {
+            "TID": "000000001",
+            "Amount": "200"
+        },
+        "OutGoingSwap": [
+            {
+                "PackId": "RACE_vatsav_6"
+            }
+        ],
+        "Remaining": [
+            {
+                "PackId": "RACE_vatsav_7"
+            }
+        ],
+        "EnergyGiven": "6.00",
+        "G2G": "Yes",
+        "KITID": "RACE123457"
+    }
+}

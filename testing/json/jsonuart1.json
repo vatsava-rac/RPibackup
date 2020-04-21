@@ -1,0 +1,43 @@
+{
+ "people": [
+  {
+   "name": "sai",
+   "from": "tenali"
+  }
+ ],
+ "aliens": [
+  {
+   "name": "asdf",
+   "from": "venus"
+  }
+ ]
+}{
+ "people": [
+  {
+   "name": "sai",
+   "from": "tenali"
+  },
+  {
+   "name": "sai",
+   "from": "tenali"
+  }
+ ],
+ "aliens": [
+  {
+   "name": "asdf",
+   "from": "venus"
+  },
+  {
+   "name": "asdf",
+   "from": "venus"
+  }
+ ]
+}{
+ "people": [
+  {
+   "name": "sai",
+   "from": "tenali"
+  }
+ ],
+ "aliens": []
+}

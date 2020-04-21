@@ -1,0 +1,44 @@
+{
+    "ObjectType": "BssBatterysState",
+    "BSS_Idle": {
+        "MessageID": "191",
+        "BSSID": "RACE_BSS_000101",
+        "TimeStamp": "12-04-2020 22:04:00",
+        "BatteryList": [
+            {
+                "MessageID": "191",
+                "TimeStamp": "12-04-2020 22:04:00",
+                "PhyID": "RACE_abhi_5",
+                "CANID": "0x1CF453A2",
+                "SoC": "100",
+                "Volt": "55.55",
+                "AvgCurrent": "60",
+                "BatteryCurrent": "60",
+                "Energy": "8.5",
+                "Capacity": "31.9",
+                "Temperature": "42",
+                "CycleCount": "67",
+                "SoH": "100",
+                "TamperStatus": "65",
+                "BatteryStatus": "12"
+            },
+            {
+                "MessageID": "191",
+                "TimeStamp": "12-04-2020 22:04:00",
+                "PhyID": "RACE_abhi_7",
+                "CANID": "0x1CF453A2",
+                "SoC": "100",
+                "Volt": "55.55",
+                "AvgCurrent": "60",
+                "BatteryCurrent": "60",
+                "Energy": "8.5",
+                "Capacity": "31.9",
+                "Temperature": "42",
+                "CycleCount": "67",
+                "SoH": "100",
+                "TamperStatus": "65",
+                "BatteryStatus": "12"
+            }
+        ]
+    }
+}

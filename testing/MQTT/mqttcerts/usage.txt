@@ -1,0 +1,5 @@
+ec2-13-235-90-136.ap-south-1.compute.amazonaws.com
+
+port number : 1883
+
+topic name : iot/bss/telemetry

@@ -1,0 +1,46 @@
+2020-02-20 19:33:28.715505 Auto is connected, verification should be done.
+2020-02-20 19:33:28.715505 ID is TS15UA1266
+2020-02-20 19:35:22.064179 Auto is connected, verification should be done.
+2020-02-20 19:35:22.064179 ID is TS15UA1266
+2020-02-20 19:36:24.130160 Auto is connected, verification should be done.
+2020-02-20 19:36:24.130160 ID is TS15UA1266
+2020-02-20 19:42:30.134434 Auto is connected, verification should be done.
+2020-02-20 19:42:30.134434 ID is TS15UA1266
+2020-02-20 19:43:24.501220 Auto is connected, verification should be done.
+2020-02-20 19:43:24.501220 ID is TS15UA1266
+2020-02-20 19:45:11.399861 Auto is connected, verification should be done.
+2020-02-20 19:45:11.399861 ID is TS15UA1266
+2020-02-20 19:45:56.077180 Auto is connected, verification should be done.
+2020-02-20 19:45:56.077180 ID is TS15UA1266
+2020-02-20 19:47:07.407234 Auto is connected, verification should be done.
+2020-02-20 19:47:07.407234 ID is TS15UA1266
+2020-02-20 19:47:11.391796 Cost is 450
+ 2020-02-20 19:47:11.391796 Energy consumed is 2.5KWh
+2020-02-20 19:53:00.791233 Auto is connected, verification should be done.
+2020-02-20 19:53:00.791233 ID is TS15UA1266
+2020-02-20 19:53:04.581489 Cost is 450
+ 2020-02-20 19:53:04.581489 Energy consumed is 2.5KWh
+2020-02-20 19:57:48.667110 Auto is connected, verification should be done.
+2020-02-20 19:57:48.667110 ID is TS15UA1266
+2020-02-20 19:57:52.844672 Cost is 450
+ 2020-02-20 19:57:52.844672 Energy consumed is 2.5KWh
+2020-02-20 20:02:10.574741 Auto is connected, verification should be done.
+2020-02-20 20:02:10.574741 ID is TS15UA1266
+2020-02-20 20:02:14.509403 Cost is 450
+ 2020-02-20 20:02:14.509403 Energy consumed is 2.5KWh
+2020-02-20 20:06:45.912198 Auto is connected, verification should be done.
+2020-02-20 20:06:45.912198 ID is TS15UA1266
+2020-02-20 20:06:49.700110 Cost is 450
+ 2020-02-20 20:06:49.700110 Energy consumed is 2.5KWh
+2020-02-20 20:08:47.723241 Auto is connected, verification should be done.
+2020-02-20 20:08:47.723241 ID is TS15UA1266
+2020-02-20 20:08:51.512166 Cost is 450
+ 2020-02-20 20:08:51.512166 Energy consumed is 2.5KWh
+2020-02-20 20:12:46.533624 Auto is connected, verification should be done.
+2020-02-20 20:12:46.533624 ID is TS15UA1266
+2020-02-20 20:12:50.372527 Cost is 450
+ 2020-02-20 20:12:50.372527 Energy consumed is 2.5KWh
+2020-02-20 20:17:03.891274 Auto is connected, verification should be done.
+2020-02-20 20:17:03.891274 ID is TS15UA1266
+2020-02-20 20:17:07.781079 Cost is 450
+ 2020-02-20 20:17:07.781079 Energy consumed is 2.5KWh

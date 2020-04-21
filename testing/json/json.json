@@ -1,0 +1,39 @@
+
+{
+    "people" : [
+        {
+            "name" : "SAI",
+            "age" : add
+        },
+        { 
+            "name" : "VATSAVA",
+            "age" : "24"
+        }
+    ]
+}
+
+{
+    "people" : [
+        {
+            "name" : "SAI",
+            "age" : add
+        },
+        { 
+            "name" : "VATSAVA",
+            "age" : "24"
+        }
+    ]
+}
+
+{
+    "people" : [
+        {
+            "name" : "SAI",
+            "age" : add
+        },
+        { 
+            "name" : "VATSAVA",
+            "age" : "24"
+        }
+    ]
+}
